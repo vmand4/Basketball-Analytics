@@ -2,7 +2,7 @@
 Predicting Player All-NBA team selections at any point of their career
 The project code is created using Spyder IDE (Python 3.6) in Anaconda.
 
-1. To run the code please access the Main_Code.py file in the "OKC_Thunders_Intern_Coding" folder.
+1. To run the code please access the Main_Code.py file.
 2. Please get all the necessary packages before running this code. 
 	a. Beautiful Soup for Web scraping
 	b. Pandas and numpy
