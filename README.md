@@ -1,4 +1,4 @@
-# Basketball-Analytics
+# Basketball-Analytics (Will be updated periodically)
 Predicting Player All-NBA team selections at any point of their career
 The project code is created using Spyder IDE (Python 3.6) in Anaconda.
 
@@ -21,4 +21,3 @@ The project code is created using Spyder IDE (Python 3.6) in Anaconda.
 	e. Total_All_NBA_Selections_Remaining_4_Players: Preductions of 4 players given in project for every season they played till 2018-19.
 	f. Feature_Correlations: Correlations heat map
 	g. Global_feature_Importances_GBR: Global feature importances based on gradient boost regressor algorithm
-5. The total run time of algorithm on an i7 2 core processor (4 logical cores) is 30 mins, this may reduce or increase based on type of processor used.
